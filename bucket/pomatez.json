@@ -1,0 +1,8 @@
+{
+  "version": "1.7.2",
+  "description": "A elegant multi-platform Pomodoro desktop app to boost your productivity",
+  "url": "https://github.com/zidoro/pomatez/releases/download/v1.7.2/Pomatez-v1.7.2-win-arm64-portable.exe",
+  "homepage": "https://zidoro.github.io/pomatez/",
+  "license": "MIT",
+  "hash": "fd6c30084229ad98db8d109e5063186ea1d0b9f7e2e733fe7f2dd7f2e9f537e6"
+}
